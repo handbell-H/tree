@@ -2,7 +2,7 @@
 
 1962년 도시계획법부터 2026년 인구감소지역 재지정까지, 한국 국토 및 도시정책의 법률과 지정 제도를 계보로 정리한 그림이다.
 
-[PDF로 보기](policy-history.pdf)
+[PDF로 보기 (선명, 확대 가능)](https://handbell-h.github.io/tree/policy-history/policy-history.pdf)
 
 ![국토도시정책 발전사](policy-history.png)
 

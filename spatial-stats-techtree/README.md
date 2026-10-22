@@ -2,7 +2,7 @@
 
 1805년 최소제곱법부터 2024년 GeoShapley까지, 공간통계 기법과 발견 80개가 어디서 갈라져 나와 어떻게 이어졌는지 정리한 그림이다.
 
-[PDF로 보기](spatial-stats-techtree.pdf)
+[PDF로 보기 (선명, 확대 가능)](https://handbell-h.github.io/tree/spatial-stats-techtree/spatial-stats-techtree.pdf)
 
 ![공간통계 테크트리](spatial-stats-techtree.png)
 
